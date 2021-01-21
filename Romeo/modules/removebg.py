@@ -10,7 +10,7 @@ from telethon.tl import functions
 
 from Romeo import LOGGER
 from Romeo import REM_BG_API_KEY
-from Romeo import client
+from Romeo import telethn as config
 from Romeo import TEMP_DOWNLOAD_DIRECTORY
 from Romeo.events import register
 
