@@ -1,5 +1,5 @@
 from telethon import events
-from auditor import telethn as client
+from Romeo import telethn as client
 
 def register(**args):
     """ Registers a new message. """
