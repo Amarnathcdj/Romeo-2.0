@@ -9,7 +9,7 @@ import Romeo.modules.sql.notes_sql as sql
 from Romeo import dispatcher, LOGGER, OWNER_ID, JOIN_LOGGER
 from Romeot.__main__ import DATA_IMPORT
 from Romeo.modules.helper_funcs.chat_status import user_admin
-from Romeot.modules.helper_funcs.alternate import typing_action
+from Romeo.modules.helper_funcs.alternate import typing_action
 
 # from Romeo.modules.rules import get_rules
 import Romeo.modules.sql.rules_sql as rulessql
