@@ -7,7 +7,7 @@ from telegram.ext import CommandHandler, run_async
 
 import Romeo.modules.sql.notes_sql as sql
 from Romeo import dispatcher, LOGGER, OWNER_ID, JOIN_LOGGER
-from Romeot.__main__ import DATA_IMPORT
+from Romeo.__main__ import DATA_IMPORT
 from Romeo.modules.helper_funcs.chat_status import user_admin
 from Romeo.modules.helper_funcs.alternate import typing_action
 
