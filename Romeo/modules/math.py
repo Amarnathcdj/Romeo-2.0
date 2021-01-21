@@ -2,7 +2,7 @@ import math
 
 import pynewtonmath as newton
 from Romeo import dispatcher
-from Romeo.modues.disable import DisableAbleCommandHandler
+from Romeo.modules.disable import DisableAbleCommandHandler
 from telegram import Update
 from telegram.ext import CallbackContext, run_async
 
